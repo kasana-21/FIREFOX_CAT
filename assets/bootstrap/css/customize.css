@@ -1,0 +1,167 @@
+
+/*Image section starts here*/
+.upper_div{
+    background-image: url("../../images/web.jpg");
+    background-position: center;
+}
+/*Image section ends here*/
+
+
+/*Card section starts here*/
+.img_one, .img_two , .img_three, .img_four{
+    border-radius: 400%;
+}
+.card-title{
+    font-weight: bolder;
+    text-align: center;
+}
+.card-text{
+    text-align: center;
+}
+/*Card section ends here*/
+
+/*About CSS starts here*/
+.h6, .h1{
+    font-weight: bold;
+}
+.b1{
+    border-radius: 20px;
+    border-color: #d3c300;
+    border: unset;
+    height: 5vh;
+
+}
+.b2{
+    border-radius: 20px;
+    border-color:  #d3c300;
+    height: 5vh;
+
+}
+.img_one, .img_two, .img_three, .img_four{
+    width: 40px;
+    height: 40px;
+    align-self: center;
+}
+.collapse{
+    width: 60%;
+}
+.navbar-brand{
+    width: 40%;
+}
+.navsbar-brand{
+   width:  70%;
+    padding-left: 5%;
+}
+.collappse{
+    width: 30%;
+}
+.div_one{
+    background-image: url("../../images/web.jpg");
+    background-position: center;
+    height: 40vh;
+    width: 100%;
+    text-align: center;
+    button-position: center;
+}
+.btn{
+    text-decoration-color: white;
+    background-color: rgba(193,33,85,0.9);
+    border-radius: 2px;
+    height: 5vh;
+}
+.h1_{
+    text-align: center;
+}
+.cards-img-top{
+    image-position:center;
+    height: 30vh;
+    width: 30vw;
+}
+.row{
+    padding-left: 5%;
+    padding-right: 10%;
+}
+.btn-primary{
+    position: center;
+}
+.one{
+    border-color: rgba(193,33,85,0.9);
+    border-radius: 2px;
+    background-color: rgba(191,34,87,0.02);
+    color:rgba(193,33,85,0.9) ;
+    height: 5vh;
+    width: 10vw;
+}
+.div_two{
+    text-align: center;
+    button-position: center;
+    background-color: rgba(190,148,8,0.76);
+    height: 30vh;
+}
+.contact{
+    text-decoration-color: white;
+    background-color: rgba(193,33,85,0.9);
+    border-radius: 2px;
+    height: 5vh;
+    border: unset;
+}
+.div_three{
+    text-align: center;
+    background-color: white;
+}
+/*About CSS ends here*/
+
+/*Form CSS starts here*/
+.form{
+    background-image:url("../../images/download (2).jpeg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+.form_input{
+    width: 40%;
+    margin: auto;
+}
+.register_input {
+    width: 100%;
+    height: 50px;
+}
+.register_submit{
+    width: 100%;
+    height: 50px;
+    border: 1px solid #010005;
+    color: #f4f8f3;
+    cursor: pointer;
+    background-color: #4705bf;
+    border-radius: 2px;
+    border-color:  #4705bf;
+}
+.h3{
+    text-align: center;
+    color: #f5effa;
+    font-weight: bold;
+}
+.h5{
+    text-align: center;
+}
+.btn_1{
+    width: 49%;
+margin-left: auto;
+    background-color: #2626ac;
+    color: cornsilk;
+    border-radius: 2px;
+    height: 40px;
+    border-color: #2626ac;
+}
+.btn_2{
+    width: 49%;
+margin-right: auto;
+    background-color: #b60413;
+    color: cornsilk;
+    border-radius: 2px;
+    height: 40px;
+    border-color:#b60413 ;
+}
+.contact{
+ border: unset;
+}
+/*Form CSS ends here*/
